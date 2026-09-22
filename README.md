@@ -27,12 +27,12 @@ I'm a **Software Engineering student** passionate about building useful and prac
 
 I enjoy working on projects that solve real problems, especially in areas such as:
 
-- 📱 Mobile application development
-- 🌐 Web application development
-- 🚍 Transportation & mobility solutions
-- 🎓 Education & communication platforms
-- 🎬 Digital entertainment platforms
-- 💡 Problem solving through technology
+* 📱 Mobile application development
+* 🌐 Web application development
+* 🚍 Transportation & mobility solutions
+* 🎓 Education & communication platforms
+* 🎬 Digital entertainment platforms
+* 💡 Problem solving through technology
 
 I believe the best way to improve as a developer is to **build, test, learn, and continuously improve**.
 
@@ -42,21 +42,28 @@ I believe the best way to improve as a developer is to **build, test, learn, and
 
 I focus on creating applications that are:
 
-- 🎯 **Problem-driven** — built around real user needs
-- 🧩 **Practical** — designed to solve specific problems
-- 📱 **User-friendly** — simple and easy to use
-- 🔧 **Maintainable** — organized and understandable code
-- 🌱 **Scalable** — designed with future improvements in mind
+* 🎯 **Problem-driven** — built around real user needs
+* 🧩 **Practical** — designed to solve specific problems
+* 📱 **User-friendly** — simple and easy to use
+* 🔧 **Maintainable** — organized and understandable code
+* 🌱 **Scalable** — designed with future improvements in mind
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Core Concepts
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,php" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,php,html,css" />
 </p>
+
+* ☕ Java Programming
+* 🧩 Object-Oriented Programming (OOP)
+* 🌐 HTML
+* 🎨 CSS
+* 🟨 JavaScript
+* 🐘 PHP
 
 ### 📱 Mobile Development
 
@@ -64,23 +71,43 @@ I focus on creating applications that are:
   <img src="https://skillicons.dev/icons?i=reactnative,expo" />
 </p>
 
+* React Native
+
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,dotnet" />
 </p>
 
-### 🗄️ Databases
+* React
+* Next.js
+* TypeScript
+* Node.js
+* .NET
+
+### 🗄️ Databases & Database Management
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-### 🔧 Tools & Technologies
+* MySQL Database
+* Oracle SQL
+* PL/SQL
+* Database Design and Management
+
+### 🔄 State Management
+
+* Redux
+
+### 🔧 Tools & Version Control
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
+
+* Git
+* GitHub
 
 ---
 
@@ -120,14 +147,14 @@ A movie streaming platform concept inspired by modern entertainment platforms, w
 
 I'm continuously improving my skills in:
 
-- 🔥 Advanced React & React Native
-- 🟦 TypeScript
-- 🌐 Backend development
-- 🗄️ Database design
-- 🔌 REST APIs & real-time systems
-- ☁️ Deployment & cloud technologies
-- 🤖 Artificial Intelligence & Machine Learning fundamentals
-- 🧪 Software testing & application quality
+* 🔥 Advanced React & React Native
+* 🟦 TypeScript
+* 🌐 Backend development
+* 🗄️ Database design
+* 🔌 REST APIs & real-time systems
+* ☁️ Deployment & cloud technologies
+* 🤖 Artificial Intelligence & Machine Learning fundamentals
+* 🧪 Software testing & application quality
 
 ---
 
@@ -135,12 +162,12 @@ I'm continuously improving my skills in:
 
 My current goals are to:
 
-- 🚀 Build production-ready applications
-- 💼 Gain more professional software development experience
-- 🤝 Work with experienced developers and teams
-- 📚 Continuously improve my technical skills
-- 🌍 Build technology that solves real problems
-- 🏗️ Eventually build and grow my own technology products
+* 🚀 Build production-ready applications
+* 💼 Gain more professional software development experience
+* 🤝 Work with experienced developers and teams
+* 📚 Continuously improve my technical skills
+* 🌍 Build technology that solves real problems
+* 🏗️ Eventually build and grow my own technology products
 
 ---
 
@@ -183,7 +210,7 @@ I'm always interested in connecting with other developers, learning from others,
 ---
 
 <h3 align="center">
-  🚀 Building • Learning • Improving
+   Building • Learning • Improving
 </h3>
 
 <p align="center">
