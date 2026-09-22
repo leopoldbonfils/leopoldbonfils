@@ -196,6 +196,12 @@ My current goals are to:
 
 ## 📊 GitHub Activity
 
+### 🔥 GitHub Contributions
+
+<p align="center">
+  <strong>964 Contributions Last Year</strong>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leopoldbonfils&show_icons=true&hide_border=true&rank_icon=github" />
 </p>
@@ -233,7 +239,7 @@ I'm always interested in connecting with other developers, learning from others,
 ---
 
 <h3 align="center">
-     Building • Learning • Improving
+      Building • Learning • Improving
 </h3>
 
 <p align="center">
