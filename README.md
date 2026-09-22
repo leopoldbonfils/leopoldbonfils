@@ -1,9 +1,9 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">👋 Hello, I'm Leopold MUGISHA </h1>
+<h1 align="center">👋 Hello, I'm Leopold MUGISHA</h1>
 
 <h3 align="center">
-  💻 Software Engineering  • Mobile & Web Developer • Problem Solver
+  💻 Software Engineer • Web Developer • Backend Developer • Problem Solver
 </h3>
 
 <p align="center">
@@ -23,12 +23,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering student** passionate about building useful and practical applications.
+I'm a **Software Engineer** passionate about building useful and practical applications.
 
 I enjoy working on projects that solve real problems, especially in areas such as:
 
-* 📱 Mobile application development
 * 🌐 Web application development
+* ⚙️ Backend development & APIs
 * 🚍 Transportation & mobility solutions
 * 🎓 Education & communication platforms
 * 🎬 Digital entertainment platforms
@@ -55,35 +55,41 @@ I focus on creating applications that are:
 ### 💻 Programming Languages & Core Concepts
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,php,html,css,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,php,html,css" />
 </p>
 
 * ☕ Java Programming
 * 🧩 Object-Oriented Programming (OOP)
+* 🐍 Python
+* 🟨 JavaScript
+* 🟦 TypeScript
+* 🐘 PHP
 * 🌐 HTML
 * 🎨 CSS
-* 🟨 JavaScript
-* 🐘 PHP
 
-### 📱 Mobile Development
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=reactnative,expo" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,dotnet" />
 </p>
 
-* React Native
+* Node.js
+* Java
+* Spring Boot
+* Python
+* .NET
+* REST API Development
+* Backend Application Development
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,dotnet" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript" />
 </p>
 
 * React
 * Next.js
 * TypeScript
-* Node.js
-* .NET
 
 ### 🗄️ Databases & Database Management
 
@@ -94,6 +100,8 @@ I focus on creating applications that are:
 * MySQL Database
 * Oracle SQL
 * PL/SQL
+* PostgreSQL
+* SQLite
 * Database Design and Management
 
 ### 🔄 State Management
@@ -108,6 +116,9 @@ I focus on creating applications that are:
 
 * Git
 * GitHub
+* VS Code
+* Postman
+* Docker
 
 ---
 
@@ -149,7 +160,8 @@ I'm continuously improving my skills in:
 
 * 🔥 Advanced React & React Native
 * 🟦 TypeScript
-* 🌐 Backend development
+* ⚙️ Advanced Backend Development
+* ☕ Spring Boot
 * 🗄️ Database design
 * 🔌 REST APIs & real-time systems
 * ☁️ Deployment & cloud technologies
@@ -210,7 +222,7 @@ I'm always interested in connecting with other developers, learning from others,
 ---
 
 <h3 align="center">
-   Building • Learning • Improving
+    Building • Learning • Improving
 </h3>
 
 <p align="center">
