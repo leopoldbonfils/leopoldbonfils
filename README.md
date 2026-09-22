@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello, I'm Leopold MUGISHA</h1>
 
 <h3 align="center">
-  💻 Software Engineer • Web Developer • Backend Developer • Problem Solver
+  💻 Software Engineer • Web Developer • Backend Developer • Mobile Developer • Problem Solver
 </h3>
 
 <p align="center">
@@ -27,6 +27,7 @@ I'm a **Software Engineer** passionate about building useful and practical appli
 
 I enjoy working on projects that solve real problems, especially in areas such as:
 
+* 📱 Mobile application development
 * 🌐 Web application development
 * ⚙️ Backend development & APIs
 * 🚍 Transportation & mobility solutions
@@ -80,6 +81,16 @@ I focus on creating applications that are:
 * .NET
 * REST API Development
 * Backend Application Development
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=reactnative,expo" />
+</p>
+
+* React Native
+* Expo
+* Mobile Application Development
 
 ### 🌐 Web Development
 
@@ -222,7 +233,7 @@ I'm always interested in connecting with other developers, learning from others,
 ---
 
 <h3 align="center">
-    Building • Learning • Improving
+     Building • Learning • Improving
 </h3>
 
 <p align="center">
