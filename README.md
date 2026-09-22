@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello, I'm Leopold Mugisha</h1>
 
 <h3 align="center">
-  💻 Software Engineering Student • Mobile & Web Developer • Problem Solver
+  💻 Software Engineering  • Mobile & Web Developer • Problem Solver
 </h3>
 
 <p align="center">
@@ -55,7 +55,7 @@ I focus on creating applications that are:
 ### 💻 Programming Languages & Core Concepts
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,php,html,css,typescript" />
 </p>
 
 * ☕ Java Programming
