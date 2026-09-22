@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">👋 Hello, I'm Leopold Mugisha</h1>
+<h1 align="center">👋 Hello, I'm Leopold MUGISHA </h1>
 
 <h3 align="center">
   💻 Software Engineering  • Mobile & Web Developer • Problem Solver
